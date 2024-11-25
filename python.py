@@ -1,1 +1,2 @@
-ptintln("hello world :");
+ptintln("hello world :")
+printf("hello")
